@@ -1,0 +1,33 @@
+body{
+    background-color: plum;
+}
+.Main-container{
+    background-color: rgb(232, 199, 233);
+    justify-content: center;
+
+
+}
+/* This where the header text is diplayed */
+.love-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* This is the heart image, provide dimensions */
+.heart-image{
+    display: flex;
+    justify-content: center;
+    width: 95%;
+    margin: 10px;
+    padding: 15px;
+}
+img{
+    height: 300px;
+    width: 350px;
+}
+/* this is the clickable button section */
+
+#button-press{
+    display: flex;
+    justify-content: center;
+}
